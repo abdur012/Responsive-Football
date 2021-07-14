@@ -154,15 +154,15 @@ footer styles
     }
      .header-content{
         margin: 112px 66px 50px 50px;
-        width: 270px;
+        width: 230px;
     }
     .header-content h1{
        font-weight: 700;
        font-size: 36px;
     }
     .header-image img{
-        width: 329px;
-        height: 260px;
+        width: 280px;
+        height: 250px;
         margin: 0px 0px 62px 50px;
     }
 
@@ -208,7 +208,7 @@ footer styles
     }
     .header-content{
         margin: 120px 70px 50px 60px;
-        width: 270px;
+        width: 260px;
     }
     .header-content h1{
        font-weight: 700;
